@@ -1,5 +1,5 @@
 # Final de Paradigmas de Programación / IFTS18 
-### Ejercicio dado para el final de la materia desarrollado en PYTHON, generando archivos csv.
+### Ejercicio dado para el final de la materia desarrollado en PYTHON, utilizando archivos csv.
 
 ## CONSIGNA: 
 
